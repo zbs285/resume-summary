@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+.build-venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+work/
+outputs/
+*.spec
+*.log
+results*.json
+Resume_Summary_*/
+
